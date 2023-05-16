@@ -1,9 +1,9 @@
 ---
-imageSrc: '../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg'
+imageSrc: '../../images/me-outdoors.jpg'
 imageAlt: 'About Me'
 ---
 
-<i>I like to think and hustle</i>! Which is a great combo for software development! I have a passion for being creative while being challanged mentally, which is a lot of the reason for why I have been so drawn to the field. The never ending well of knowledge to explore in computer science and software development keeps me searching for more.
+<i>I like to hustle and think </i>! Which is a great combo for software development! I have a passion for being creative while being challanged mentally, which is a lot of the reason for why I have been so drawn to the field. The never ending well of knowledge to explore in computer science and software development keeps me searching for more.
 
 My love for JavaScript and React grew out of a fascination with the endless possibilities of front-end web development. The ability to create responsive and intuitive user interfaces using these technologies has always been a thrill for me. I enjoy working on challenging problems that require creative solutions, and I am always eager to learn new techniques and technologies to improve my skills.
 
