@@ -4,7 +4,7 @@
       "visible": true,
       
       "title": "Star Wars API Character Guide",
-      "description": "Creating this app helped me strengthen my react skills as well as  handling data fetching, and displaying the data in a clean and effective format.   ",
+      "description": "Creating this app helped me strengthen my react skills as well as  handling data fetching and displaying the data in a clean and effective format.   ",
       "tags": ["React","Bootstrap", "Star Wars API"],
       "image": {
         "src": "../../images/star-wars.jpg",
@@ -26,7 +26,7 @@
       "visible": true,
  
       "title": "React Expense Tracker",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "description": "  I really enjoyed learning the fundamentals of react such as, component structure, react hooks, state management, and form handling.",
       "tags": ["React", "Bootstrap", "CSS"],
       "image": {
         "src": "../../images/expense-tracker.jpg",
