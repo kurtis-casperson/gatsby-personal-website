@@ -7,7 +7,7 @@
     "alt": "Profile Picture"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
+    "from": ["LinkedIn", "Github"],
     "showIcons": true
   }
 }

@@ -8,15 +8,16 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
+  
   "title": "",
   "subtitle": {
     "prefix": " ",
     "highlight": "Don't trust a javascript developer..",
-    "suffix": "."
+    "suffix": ""
   },
   "description": "All they do are promises but they never callback!!",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }
