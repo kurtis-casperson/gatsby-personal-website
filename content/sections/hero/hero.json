@@ -12,10 +12,10 @@
   "title": "",
   "subtitle": {
     "prefix": " ",
-    "highlight": "Don't trust a javascript developer..",
+    "highlight": "",
     "suffix": ""
   },
-  "description": "All they do are promises but they never callback!!",
+  "description": "Build, Break, Repeat!",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true
