@@ -29,6 +29,19 @@
       }
     },
     {
+      "label": "TypeScript",
+      "image": {
+        "src": "../../images/typescript.png",
+        "alt": ""
+      }
+    },{
+      "label": "NodeJs",
+      "image": {
+        "src": "../../images/NodeJS.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "Testing / QA",
       "image": {
         "src": "../../images/testing.png",
