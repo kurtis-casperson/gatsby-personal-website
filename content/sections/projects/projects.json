@@ -65,28 +65,6 @@
           "url": "https://youtu.be/FI-ul4UUFic"
         }
       ]
-    },
-    {
-      "visible": true,
- 
-      "title": "React Expense Tracker",
-      "description": "  I really enjoyed learning the fundamentals of react such as, component structure, react hooks, state management, and form handling.",
-      "tags": ["React", "Bootstrap", "CSS"],
-      "image": {
-        "src": "../../images/expense-tracker.jpg",
-        "alt": "Extendable Layout",
-        "linkTo": "https://expense-tracker-by-kurtis.herokuapp.com/"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://expense-tracker-by-kurtis.herokuapp.com/"
-        }
-      ]
     }
     
     
