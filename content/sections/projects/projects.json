@@ -3,6 +3,28 @@
     {
       "visible": true,
       
+      "title": "Stock Trading Application",
+      "description": "I took on a lot of new challenges to develop this project!  This was my first fullstack application.  I used TypeScript on the client, and I also deployed to AWS for the first time! To use this application, a user needs to register, and then they can trade using our fake paper trading money",
+      "tags": ["React","TypeScript","User Authentication" ,"Financial API", "Amazon RDS", "Amazon Lightsail"],
+      "image": {
+        "src": "../../images/stock-app-image.png",
+        "alt": "Quick Setup",
+        "linkTo": "http://diamond-hand-trading.com"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "/https://github.com/kurtis-casperson/diamond-hands-trading"
+        },
+        {
+          "type": "external",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "visible": true,
+      
       "title": "Twitter API Showcase App",
       "description": "I feel like a much more compotent developer after completing this project! I learned the basics of Typescript, how to add a back-end server, as well as navigating complex API documentation. ",
       "tags": ["React","TypeScript", "Twitter API", "Tailwind CSS", "Express"],
