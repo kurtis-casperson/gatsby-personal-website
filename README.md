@@ -1,5 +1,5 @@
 # Personal Porfolio Website
 
-## See it [here](kurtis-codes.netlify.app)!
+## See it [here](kurtiscodes.com)!
 
 ![Image](./content/images/readMe-pic.png)
