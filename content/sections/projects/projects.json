@@ -4,7 +4,7 @@
       "visible": true,
       
       "title": "Stock Trading Application",
-      "description": "I took on a lot of new challenges to develop this project!  This was my first fullstack application.  I used TypeScript on the client, and I also deployed to AWS for the first time! To use this application, a user needs to register, and then they can trade using our fake paper trading money",
+      "description": "I took on a lot of new challenges to develop this project!  This was my first full stack application.  I used TypeScript on the client, and I also deployed to AWS for the first time! To use this application, a user needs to register, and then they can trade using our fake paper trading money",
       "tags": ["React","TypeScript","User Authentication" ,"Financial API", "Amazon RDS", "Amazon Lightsail"],
       "image": {
         "src": "../../images/stock-app-image.png",
