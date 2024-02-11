@@ -22,7 +22,7 @@
       "visible": true,
       
       "title": "Twitter API Showcase App",
-      "description": "I feel like a much more compotent developer after completing this project! I learned the basics of Typescript, how to add a back-end server, as well as navigating complex API documentation. ",
+      "description": "I feel like a much more competent developer after completing this project! I learned the basics of Typescript, how to add a back-end server, as well as navigating complex API documentation. ",
       "tags": ["React","TypeScript", "Twitter API", "Tailwind CSS", "Express"],
       "image": {
         "src": "../../images/twitter.png",
