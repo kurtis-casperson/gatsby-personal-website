@@ -47,6 +47,13 @@
         "src": "../../images/testing.png",
         "alt": ""
       }
+    },
+    {
+      "label": "AWS, Cloud Computing",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
     }
   ],
   "button": {
