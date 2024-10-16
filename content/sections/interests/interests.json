@@ -51,7 +51,14 @@
     {
       "label": "AWS, Cloud Computing",
       "image": {
-        "src": "",
+        "src": "../../images/aws.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/python.png",
         "alt": ""
       }
     }
